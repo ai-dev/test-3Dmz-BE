@@ -20,7 +20,7 @@ Example
 
 ```Bash
 npm i
-npm start
+npm run local-start
 ```
 
 ## Heroku
